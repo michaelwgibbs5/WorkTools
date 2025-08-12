@@ -3,10 +3,8 @@
 A few simple tools created for work for either: <br>
 -Automation of Manual Tasks or <br>
 -Comparison tools used to compare versions of files/data/reconciliation <br>
-<br>
 
 ## Files
-<br>
 
 ### RTF_FileExtract and 123Scan_Compare <br>
 -RTF_FileExtract > Extracts text from 123Scan.rtf file type and outputs text file inorder to compare text files using 123ScanCompare. <br>
