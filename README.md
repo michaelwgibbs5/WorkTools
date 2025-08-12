@@ -1,5 +1,5 @@
 # WorkTools
 
-A few tools created for work for either:
-Automation of Manual Tasks or
-Comparison tools used to compare versions of data.
+A few tools created for work for either: <br>
+-Automation of Manual Tasks or <br>
+-Comparison tools used to compare versions of data <br>
